@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1585910249 source:c:\users\acer\desktop\code blocks\data_structures_pack.cpp\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<string>
+	"stdlib.h"
+
+1643737513 source:d:\downloads\cartjet\data_structures_pack.cpp\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+
